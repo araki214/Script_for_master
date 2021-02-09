@@ -1,0 +1,64 @@
+NER_in_1000_Shogi
+ALL: 1291
+Yes: 408
+No: 883
+NER_in_2000_Shogi
+ALL: 1291
+Yes: 616
+No: 675
+NER_in_4000_Shogi
+ALL: 1291
+Yes: 804
+No: 487
+NER_in_8000_Shogi
+ALL: 1291
+Yes: 957
+No: 334
+NER_in_16000_Shogi
+ALL: 1291
+Yes: 1056
+No: 235
+NER_in_32000_Shogi
+ALL: 1291
+Yes: 1112
+No: 179
+NER_in_64000_Shogi
+ALL: 1291
+Yes: 1128
+No: 163
+NER_in_128000_Shogi
+ALL: 1291
+Yes: 1136
+No: 155
+NER_in_MAX_Shogi
+ALL: 1291
+Yes: 1136
+No: 155
+9282
+ALL: 1291
+Yes: 296
+No: 995
+16000
+ALL: 1291
+Yes: 921
+No: 370
+32000
+ALL: 1291
+Yes: 1072
+No: 219
+64000
+ALL: 1291
+Yes: 1121
+No: 170
+128000
+ALL: 1291
+Yes: 1133
+No: 158
+max
+ALL: 1291
+Yes: 1134
+No: 157
+max
+ALL: 1291
+Yes: 1134
+No: 157

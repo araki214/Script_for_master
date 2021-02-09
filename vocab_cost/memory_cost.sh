@@ -1,0 +1,1 @@
+nohup python /mnt/mqs02/data/ogawa/BERT/preprocess-for-BERT/conbination/NUMAS/vocab_cost/recipe/32000/memory_cost.py \ > /mnt/mqs02/data/ogawa/BERT/preprocess-for-BERT/conbination/NUMAS/vocab_cost/recipe/32000/memory_cost_3.log

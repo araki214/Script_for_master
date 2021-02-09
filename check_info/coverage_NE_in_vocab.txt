@@ -1,0 +1,61 @@
+NER_in_1000_Recipe
+ALL: 2024
+Yes: 842
+No: 1182
+NER_in_2000_Recipe
+ALL: 2024
+Yes: 1311
+No: 713
+NER_in_4000_Recipe
+ALL: 2024
+Yes: 1649
+No: 375
+NER_in_8000_Recipe
+ALL: 2024
+Yes: 1795
+No: 229
+NER_in_16000_Recipe
+ALL: 2024
+Yes: 1877
+No: 147
+NER_in_32000_Recipe
+ALL: 2024
+Yes: 1910
+No: 114
+NER_in_64000_Recipe
+ALL: 2024
+Yes: 1927
+No: 97
+NER_in_128000_Recipe
+ALL: 2024
+Yes: 1942
+No: 82
+NER_in_256000_Recipe
+ALL: 2024
+Yes: 1954
+No: 70
+NER_in_MAX_Recipe
+ALL: 2024
+Yes: 1954
+No: 70
+
+plus_1000_recipe
+ALL: 2024
+Yes: 997
+No: 1027
+plus_10000_recipe
+ALL: 2024
+Yes: 1013
+No: 1011
+plus_100000_recipe
+ALL: 2024
+Yes: 1107
+No: 917
+plus_1000000_recipe
+ALL: 2024
+Yes: 1510
+No: 514
+plus_10000000_recipe
+ALL: 2024
+Yes: 1799
+No: 225

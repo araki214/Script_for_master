@@ -1,0 +1,69 @@
+train
+tokens=34802
+tags=9
+F
+ 4376
+O
+ 20744
+Ac
+ 4213
+T
+ 1320
+Sf
+ 1894
+Af
+ 771
+St
+ 250
+D
+ 744
+Q
+ 490
+
+
+dev
+tokens=1326
+tags=9
+O
+ 799
+F
+ 149
+Ac
+ 155
+Sf
+ 56
+Q
+ 22
+T
+ 70
+D
+ 24
+Af
+ 32
+St
+ 19
+
+
+test
+tokens=1345
+tags=9
+F
+ 173
+O
+ 748
+Sf
+ 105
+Ac
+ 183
+T
+ 49
+Af
+ 24
+St
+ 13
+D
+ 27
+Q
+ 23
+
+

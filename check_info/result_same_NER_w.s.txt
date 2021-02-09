@@ -1,0 +1,28 @@
+shogi_w.s_in_NER
+#All: 3469
+#Yes: 475
+#No: 2994
+shogi_NER_in_w.s
+#All: 3588
+#Yes: 473
+#No: 3115
+recipe_NER_in_w.s
+#All: 4082
+#Yes: 692
+#No: 3390
+recipe_w.s_in_NER
+#All: 724
+#Yes: 617
+#No: 107
+recipe_NER_in_corpus
+#All: 4082
+#Yes: 2493
+#No: 1589
+recipe_w.s_in_corpus
+#All: 724
+#Yes: 230
+#No: 494
+shogi_NER_in_corpus
+#All: 3588
+#Yes: 1729
+#No: 1859

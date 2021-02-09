@@ -1,0 +1,32 @@
+shogi_NER_pre-train
+#All: 1794
+#Yes: 806
+#No: 988
+recipe_NER_pre-train
+#All: 2040
+#Yes: 451
+#No: 1589
+recipe_w.s._pre-train
+#All: 724
+#Yes: 230
+#No: 494
+shogi_w.s._pre-train
+#All: 3469
+#Yes: 2774
+#No: 695
+shogi_w.s._pre-train_true
+#All: 3469
+#Yes: 3458
+#No: 11
+shogi_NER_pre-train_true
+#All: 1794
+#Yes: 1729
+#No: 65
+recipe_NER_pre-train_true
+#All: 2040
+#Yes: 451
+#No: 1589
+recipe_w.s._pre-train_true
+#All: 724
+#Yes: 230
+#No: 494
